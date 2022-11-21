@@ -1,8 +1,7 @@
 <p align="center" witdh="300">
-    <img class="circular--square" align="center" width="200" src=./images/avatar.png >
+    <img style="border-radius: 75%" align="center" width="200" src=./images/avatar.png alt="Avatar">
     <h3 align="center">¡Buenas 👋!</h3>
 </p>
-
 
 <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/cesartagarro/">
