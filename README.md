@@ -1,13 +1,6 @@
-<<<<<<< Updated upstream
-<p align="center" witdh="300">
-    <img style="border-radius: 75%" align="center" width="200" src=./images/avatar.png alt="Avatar">
-    <h3 align="center">¡Buenas 👋!</h3>
-</p>
-=======
 # Hola, mi nombre es César Tagarro 👋
 ### SysAdmin, SysOps
 #### Junior DevOps, Junior Developer
->>>>>>> Stashed changes
 
 Me considero un Administrador de Sistemas autodidacta. Todo lo que he ido aprendiendo ha sido montando laboratorios en mis ratos libres, mientras lo compaginaba con mi trabajo como diseñador de redes FTTH.
 
