@@ -2,6 +2,8 @@
 ### SysAdmin, SysOps
 #### Junior DevOps, Junior Developer
 
+#
+
 Me considero un Administrador de Sistemas autodidacta. Todo lo que he ido aprendiendo ha sido montando laboratorios en mis ratos libres, mientras lo compaginaba con mi trabajo como diseñador de redes FTTH.
 
 Sin embargo, hace más de un año empecé a trabajar como SysAdmin y, gracias a esa oportunidad, estoy conociendo otras ramas del mundo IT que me están encantando.
@@ -12,8 +14,8 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 
 [![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://azure.microsoft.com)
 [![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com)
-[![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com)
-</br>
+[![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://www.office.com/)
 [![Nutanix](https://img.shields.io/badge/Nutanix-AFCD37?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=101010)](https://www.nutanix.com)
 [![Rocky_Linux](https://img.shields.io/badge/Rocky_Linux-10b981?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=101010)](https://rockylinux.org)
 [![VMware](https://img.shields.io/badge/VMware-696566?style=for-the-badge&logo=vmware&logoColor=white&labelColor=101010)](https://www.vmware.com)
@@ -23,7 +25,6 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 [![Bash](https://img.shields.io/badge/Bash-13191C?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)](https://kubernetes.io)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com)
-</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com)
 
 ## Me puedes encontrar en:
