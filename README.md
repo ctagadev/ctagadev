@@ -12,20 +12,20 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 
 ## Tecnologías:
 
-[![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://azure.microsoft.com)
-[![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com)
-[![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)](https://azure.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://www.office.com/)
-[![Nutanix](https://img.shields.io/badge/Nutanix-AFCD37?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=101010)](https://www.nutanix.com)
-[![Rocky_Linux](https://img.shields.io/badge/Rocky_Linux-10b981?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=101010)](https://rockylinux.org)
-[![VMware](https://img.shields.io/badge/VMware-696566?style=for-the-badge&logo=vmware&logoColor=white&labelColor=101010)](https://www.vmware.com)
+[![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=101010)](https://www.nutanix.com)
+[![Rocky_Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=101010)](https://rockylinux.org)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&labelColor=101010)](https://www.vmware.com)
 
 ## Tecnologías que estoy aprendiendo:
 
-[![Bash](https://img.shields.io/badge/Bash-13191C?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)](https://kubernetes.io)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)](https://kubernetes.io)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com)
+[![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)](https://www.java.com)
 
 ## Me puedes encontrar en:
 
