@@ -34,7 +34,7 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)](https://www.ansible.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)](https://aws.amazon.com)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)](https://www.terraform.io)
-[![Spring](https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)](https://spring.io)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)](https://spring.io)
 [![Terraform](https://img.shields.io/badge/Python-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)](https://www.terraform.io)
 
 ## Me puedes encontrar en:
