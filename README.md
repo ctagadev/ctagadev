@@ -10,7 +10,7 @@ Sin embargo, hace más de un año empecé a trabajar como SysAdmin y, gracias a 
 
 Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la unión de dos mundos que me apasionan.
 
-## Tecnologías:
+## Tecnologías que conozco:
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)](https://azure.microsoft.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com)
@@ -47,6 +47,8 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Tagarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cesartagarro)
 </br>
 [![Manfred](https://img.shields.io/badge/manfred-César_Tagarro-0DA1A4?style=for-the-badge&logoColor=white&labelColor=101010)](https://mnf.red/ctagarro/timeline)
+</br>
+[![Credly](https://img.shields.io/badge/Credly-César_Tagarro-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=101010)](https://www.credly.com/users/ctagarro)
 
 </br>
 <div align="center">
