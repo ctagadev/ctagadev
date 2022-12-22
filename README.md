@@ -29,11 +29,11 @@ Ahora mismo estoy estudiando para formarme como DevOps, que, para mí, es la uni
 
 ## Me puedes encontrar en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@CtagaDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CtagaDev){:target="_blank"}
+[![Twitter](https://img.shields.io/badge/Twitter-@CtagaDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CtagaDev)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Tagarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cesartagarro){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Tagarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cesartagarro)
 </br>
-[![Manfred](https://img.shields.io/badge/manfred-César_Tagarro-0DA1A4?style=for-the-badge&logoColor=white&labelColor=101010)](https://mnf.red/ctagarro/timeline){:target="_blank"}
+[![Manfred](https://img.shields.io/badge/manfred-César_Tagarro-0DA1A4?style=for-the-badge&logoColor=white&labelColor=101010)](https://mnf.red/ctagarro/timeline)
 
 </br>
 <div align="center">
