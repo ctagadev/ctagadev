@@ -1,3 +1,5 @@
+[English version](https://github.com/ctagadev/ctagadev/blob/main/README_ENG.md)
+
 # Hola, mi nombre es César Tagarro 👋
 ### SysAdmin, SysOps
 #### Junior Developer, Junior DevOps
