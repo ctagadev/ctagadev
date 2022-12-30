@@ -1,6 +1,5 @@
 # Hi, my name is César Tagarro 👋
-### SysAdmin, SysOps
-#### Junior Developer, Junior DevOps
+### SysAdmin, Junior Fron End Developer
 
 #
 
@@ -8,13 +7,14 @@ I consider myself a self-taught System Administrator. Everything I have been lea
 
 However, more than a year ago I started working as a SysAdmin and, thanks to that opportunity, I am getting to know other branches of the IT world that I am loving.
 
-Right now I am studying to train as a DevOps, which, for me, is the union of two worlds that I am passionate about.
+Right now I'm studying to become a Front End developer, with the idea of becoming DevOps one day, which, for me, is the union of two worlds that I'm passionate about.
 
 ## Technologies I know:
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)](https://azure.microsoft.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)](https://html.spec.whatwg.org/multipage/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)](https://www.atlassian.com/software/jira)
 [![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://www.office.com/)
 [![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=101010)](https://www.nutanix.com)
