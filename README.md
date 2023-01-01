@@ -27,8 +27,8 @@ Ahora mismo estoy estudiando para formarme como desarrollador Front End, con la 
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash)
 [![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)](https://www.java.com)
-[![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white&labelColor=101010)](https://www.portainer.io)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com)
+[![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white&labelColor=101010)](https://www.portainer.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
 
 ## Tecnologías que quiero aprender:
