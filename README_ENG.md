@@ -1,5 +1,5 @@
 # Hi, my name is César Tagarro 👋
-### SysAdmin, Junior Front End Developer
+### SysAdmin, Junior Developer
 
 #
 
@@ -7,7 +7,7 @@ I consider myself a self-taught System Administrator. Everything I have been lea
 
 However, more than a year ago I started working as a SysAdmin and, thanks to that opportunity, I am getting to know other branches of the IT world that I am loving.
 
-Right now I'm studying to become a Front End developer, with the idea of becoming DevOps one day, which, for me, is the union of two worlds that I'm passionate about.
+Right now I'm studying to become a developer, with the idea of becoming DevOps one day, which, for me, is the union of two worlds that I'm passionate about.
 
 ## Technologies I know:
 
@@ -29,7 +29,6 @@ Right now I'm studying to become a Front End developer, with the idea of becomin
 [![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white&labelColor=101010)](https://www.portainer.io)
 <br>
 [![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)](https://www.java.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
 
@@ -38,6 +37,7 @@ Right now I'm studying to become a Front End developer, with the idea of becomin
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)](https://www.ansible.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)](https://aws.amazon.com)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://www.javascript.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)](https://www.jenkins.io)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)](https://kubernetes.io)
 [![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white&labelColor=101010)](https://developers.redhat.com/products/openshift)
